@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mohamed Barakat's homepage"
+title                    : "Mohamed Barakat's academic homepage"
 title_separator          : "-"
 name                     : &name "Mohamed Barakat"
-description              : "Mohamed Barakat's homepage"
+description              : "Mohamed Barakat's academic homepage"
 url                      : "https://mohamed-barakat.github.io"
 baseurl                  : ""
 repository               : "mohamed-barakat/mohamed-barakat.github.io"
